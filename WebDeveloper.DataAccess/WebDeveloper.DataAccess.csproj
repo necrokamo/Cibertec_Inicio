@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseDataAccess.cs" />
+    <Compile Include="CarData.cs" />
     <Compile Include="ClientData.cs" />
     <Compile Include="IDataAccess.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

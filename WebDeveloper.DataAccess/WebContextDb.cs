@@ -17,6 +17,7 @@ namespace WebDeveloper.DataAccess
             Database.SetInitializer(new WebDeveloperInitializer());
         }
         public DbSet<Client>Clients { get; set; }
+        public DbSet<Car> Cars { get; set; }
         //todo lo que venga se mapea al objeto
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
