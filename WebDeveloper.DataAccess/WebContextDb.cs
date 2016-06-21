@@ -14,7 +14,7 @@ namespace WebDeveloper.DataAccess
         public WebContextDb(): base("name=WebDeveloperConnectionString")
         {
             //agregamos el metodo setinitializer para listar la clase
-            Database.SetInitializer(new WebDeveloperInitializer());
+            //Database.SetInitializer(new WebDeveloperInitializer());
         }
         public DbSet<Client>Clients { get; set; }
         public DbSet<Car> Cars { get; set; }
