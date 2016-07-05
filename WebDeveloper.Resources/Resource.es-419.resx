@@ -117,10 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Target" xml:space="preserve">
-    <value>H4sIAAAAAAAEAM1Y227jNhB9L9B/EPTUAlkzl5c2kHeRtZMiaG5YZbfPtDS2iVKUSlKG/W370E/qL3QoUXf5njpFgEAezZwZDg85M/rn+9/ep2XEnQVIxWIxdC8G564DIohDJmZDN9XTD7+4nz7++IN3G0ZL51uhd2X00FKooTvXOrkmRAVziKgaRCyQsYqnehDEEaFhTC7Pz38lFxcEEMJFLMfxvqRCswiyH/hzFIsAEp1S/hiHwJWV4xs/Q3WeaAQqoQEM3T9gMoYF8DgBORhTTW+CAJRynRvOKIbjA5+6DhUi1lRjsNdfFfhaxmLmJyig/HWVAOpNKVdgF3Fdqe+6nvNLsx5SGRZQQap0HO0JeHFlE0Ta5gel2S0TiCm8xVTrlVl1lsahO6LSddp+rkdcGp1WgrP9GKDFmdOVn5WEQN6YvzNnlHKdShgKSLWkqPGSTjgLfofVa/wniKFIOa9Hh/Hhu4YARS/SONGrLzC1Md+HrkOadqRtWJrVbPIl3Qt9dek6T+icTjiUm19bvq9jCb+BAEk1hC9Ua5DCYECWvo73lq/PkorSHdINj4/rPNLlA4iZng9dfHSdO7aEsJDYEL4KhqcNjbRMoSfEzW6zbXgPt5it07sdxfw93PpzliToCy8bKLyb51e8wZq2HqkO2+YjyBnyat9TmBm990EcH3AQx6c7iOb/6SnyQJV+H8+GiCMJtlYcTk4swZoyzLrFRZIZESz1eNLDUyyqlqrKBt6MMgf1QVc1B0t0FUBepwdZKSJbTDPa91rbU9S3ynI9VS9B8maiaDrImq7De6TZca91IVbi+HkLMvrg71+WoxyDBKqnOpfRlp7wFNAZtN6aKzCEOyaVNp3PhBp+jMKoo9bYvTXpLVzVNqh9/KuMF8rmuSRIXx+WbWkLp8rgHS4qwj3L1gdlKHlP0rHK+j/Kqewp7FgL0kisaw42WdtSXQewot0xbN2tY1jRPhhZEW1iZKLdMWxFrGNY0e4YzfJWh2q+6SJ6pLWtbf6QDoFalaNNxt2oai+EN2FrfoUcQNg1hms5O25xtlNHN1nntaVun0t2R6gqVB2lku6O1Kw4dbTmmxPzpXPxt1VK72UBaF30nr10t8+gnVs4V3EdTNWCheYG9ldKQ5RRbeD/xYtSVSg8UsGmoHTejLk4AV62Jtj/zzRJlAr59pHy5FMdMwnd2i7u2U81BjmxoDKYU/lTRJc/HzecHQtVG7iOg2oMUcdB9Q1GIT7rrPeswPLG9phB6eSDyn/CrfqEcFzm2/PGcWh9M8Rb7GN7pug2r1uHhnUzQ37hYpiTGCPOw9t9mNgwS/QCHzdndMuKR+ofQL0xKDarIMznUAGB2Y0KtNC5F9O42D5cVj2iQqV9d4Cmoel4pGZTGmh8bVqfbD79RnmKKrfRBMJ78ZzqJNU3SkE04Y1J2yOb/WfDVDNm7zkxv9RbLAHDZIaQz+JzynhYxn3XZfc6CMM9e5QxKpzPEW62KpGeYrEjkE3fGBIQ5iJ4hSjhCKaehU8XcEhsOEw/wIwGq6I7WA+yfSOaaffGjM4kjZTFqOzNR31ivup//Bc1PxPpBxgAAA==</value>
+  <data name="Car_Brand" xml:space="preserve">
+    <value>Marca</value>
   </data>
-  <data name="DefaultSchema" xml:space="preserve">
-    <value>dbo</value>
+  <data name="Car_Model" xml:space="preserve">
+    <value>Modelo</value>
+  </data>
+  <data name="Client_DateCreation" xml:space="preserve">
+    <value>Fecha</value>
+  </data>
+  <data name="Client_Id" xml:space="preserve">
+    <value>Codigo</value>
+  </data>
+  <data name="Client_LastName" xml:space="preserve">
+    <value>Apellido</value>
+  </data>
+  <data name="Client_Name" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="Client_Title" xml:space="preserve">
+    <value>Lista de Clientes</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Editar</value>
   </data>
 </root>

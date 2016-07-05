@@ -14,7 +14,7 @@ namespace WebDeveloper.DataAccess
             return new List<Product>
             {
                 new Product {ID=1,Description="Cristal",Precio=3.0,Fecha=DateTime.Now },
-                new Product {ID=2,Description="Cusqueña",Precio=4.0,Fecha=null },
+                new Product {ID=2,Description="Cusqueña",Precio=4.0,Fecha=DateTime.Now },
                 new Product {ID=3,Description="Casera",Precio=0,Fecha=DateTime.Now }
             };
         }

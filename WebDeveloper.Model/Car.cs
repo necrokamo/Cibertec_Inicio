@@ -4,16 +4,17 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WebDeveloper.Resources;
 
 namespace WebDeveloper.Model
 {
     public class Car
     {
         public int Id { get; set; }
-        [Display(Name = "Brand (Marca)")]
+       [Display(Name = "Car_Brand",ResourceType =typeof(Resource))]
         [Required(ErrorMessage = "The Brand is required")]
         public string Brand { get; set; }
-        [Display(Name = "Model (Modelo)")]
+        [Display(Name = "Car_Model",ResourceType =typeof(Resource))]
         [Required(ErrorMessage = "The Model is required")]
         public string Model { get; set; }
         [Display(Name = "Motor (Motor)")]

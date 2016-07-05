@@ -5,17 +5,26 @@ using System.Web;
 using System.Web.Mvc;
 using WebDeveloper.DataAccess;
 using WebDeveloper.Model;
+using WebDeveloper.Resources;
 
 namespace WebDeveloper.Controllers
 {
     public class ClientController : Controller
     {
-        private ClientData _client = new ClientData();
+        // private ClientData _client = new ClientData();
         // GET: Client
+
+        //private IDataAccess<Client> _client;
+        private ClientData _client;
+        public ClientController(ClientData client)
+        {
+            _client = client;
+        }
         public ActionResult Index()
         {
             //var client = new ClientData();
             //return View(client.GetFakeData());
+            ViewBag.Title = Resources.Resource.Client_Title;
             return View(_client.GetList());
         }
 
@@ -39,7 +48,7 @@ namespace WebDeveloper.Controllers
             var client = _client.GetClientById(id);
             if (client == null)
             {
-               return  RedirectToAction("Index");
+                return RedirectToAction("Index");
             }
             return View(client);
         }

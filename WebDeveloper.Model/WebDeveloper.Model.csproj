@@ -46,6 +46,12 @@
     <Compile Include="Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebDeveloper.Resources\WebDeveloper.Resources.csproj">
+      <Project>{1da94585-6ecf-4e80-a4ea-d1f12bbceed4}</Project>
+      <Name>WebDeveloper.Resources</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
