@@ -32,7 +32,8 @@ namespace WebDeveloper.Controllers
         public ActionResult Product()
         {
             var productData = new ProductData();
-            return View(productData.GetFakeProducts());
+            return View();
+            //return View(productData.GetFakeProducts());
         }
 
         [Route("Entry/{date:DateTime}")]

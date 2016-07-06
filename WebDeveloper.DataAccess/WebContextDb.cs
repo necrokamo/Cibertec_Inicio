@@ -18,6 +18,7 @@ namespace WebDeveloper.DataAccess
         }
         public DbSet<Client>Clients { get; set; }
         public DbSet<Car> Cars { get; set; }
+        public DbSet<Product> Products { get; set; }
         //todo lo que venga se mapea al objeto
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

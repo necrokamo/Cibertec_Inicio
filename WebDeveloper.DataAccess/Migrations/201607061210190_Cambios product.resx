@@ -117,49 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Car_Brand" xml:space="preserve">
-    <value>Marca</value>
+  <data name="Target" xml:space="preserve">
+    <value>H4sIAAAAAAAEAO1Z227jNhB9L9B/EPTUArtWLiiwDeRdZO2kCJobVsn2mZbGDlGKUkkqsL9tH/pJ/YUOJeou23LkOFugCBDYI86Z4fCQPBr/8+1v99MyZNYzCEkjPraPR0e2BdyPAsoXYztR8/cf7E8ff/zBvQjCpfU1H3eqx6Enl2P7San4zHGk/wQhkaOQ+iKS0VyN/Ch0SBA5J0dHvzrHxw4ghI1YluV+SbiiIaRf8Osk4j7EKiHsJgqASWPHJ16Kat2SEGRMfBjbf8BsCs/AohjEaEoUOfd9kNK2zhklmI4HbG5bhPNIEYXJnj1K8JSI+MKL0UDYwyoGHDcnTIKZxFk5vO98jk70fJzSMYfyE6micEfA41NTIKfp/qIy20UBsYQXWGq10rNOyzi2J0TYVjPO2YQJPaZR4HQ9Rujxzmrb3xWEQN7ov3fWJGEqETDmkChBcMR9MmPU/x1WD9GfwMc8YayaHeaHz2oGNN0LHUStvsDc5HwV2JZT93OajoVbxSeb0hVXpye2dYvByYxBsfiV6XsqEvAbcBBEQXBPlALBNQak5WtFb8T6LAgvwiHdcPvY1g1ZXgNfqKexjR9t65IuIcgtJoVHTnG3oZMSCXSkuDlsugxvERardfiwk4i9RVjvicYxxsLDBvLo+vMDnmB1X9cpN9vmLcgo8mrXXZg6vfVGnL5gI04PtxH1/8NT5JpI9TaRNREnAsxdsRdyYoQg8Xdlp/H6n56blwukL2hcXa0Orhz/cvQaXLkX4NOoYEmEJd8d5BL8JzKEaSj2FKFYQAOIfNEmWKrprINzKN8M7aSZdj29DNQDVaobFINlApkiHKWix9nimh6wnd7mvN4CYPZAF0KxqboKVZSkFL5OpnxzheyskcjuDUnvpopkNhbLy/Ty5L23u4YMMwzHlx1Sssi2iIR7giyg8VTf1wFcUiGVlukzork1CcLWsBoB1hQ4D1VZ4+ZhUJY8H6w/FxzremlIWdHAKSt4iZMKcdnT+UGRSiagW17pywphRHSoUBQuScjXKdlN3kZXVgGMqT+GEYlVDGPaBSNVfHWM1NQfw8i3KoYx9ceoa7EqVP1JG9F1Gsva5I/TIlDjHmmSsR9VzZmyF7Zmp9ALCLvGcS1npw3Otm7VTd6ZEKr6Z5b+CKWcqqKU1v5IdXlURas/+W74Ulwh+yBMfunszpi1nq9DmZosqq1S9UF/vFzpVKFyW38UI3WqIMZ0YLq0dEJzSBG90AsNXeCaO3p7f611aWdDbAuL80wDfWF7K6kgTIk28v5iuTjKB9wQTucgVabkbdQUHxrdue+nU+ZIGbDt7bKDd6yoLujWd40dpXutScWfiUAui59Csvx5WONpKFSlmTQMqtYgGgbV1fQJ8LNK33ZKsOxFbEgT6OBvua/CrWr3Y1jlm72UYWhd/ZE9r2PnXfmfXciODkW+Au0exaAGxJxFRA3rP+xjJZv9iPZb69aGw7p+Q3Z1YpozPeksvf6NiA19iE7gnXoUm1oUXehD+xdt/eE61V8BXeQdXZQQ+jdBDr6mYQmaj7ni8yinBc6smlE+pHnJgCKBFsZC0TnxFT7WCjltvH0lLMEhF+EMgit+l6g4UedSQjhjtX6e62yOnzZp6jm7d+lGkvuYAqZJNd/v+OeEsqDI+7K9a9ZBaGqbowKz8pQ+MharAuk24j2BTPmmEAPXB80DhDFDMHnHPfIML8ntUcI1LIi/ymXkepDtC1EvuzulZCFIKA1G6Y9fkcNBuPz4L7Ve/xsMHwAA</value>
   </data>
-  <data name="Car_Model" xml:space="preserve">
-    <value>Modelo</value>
-  </data>
-  <data name="Client_DateCreation" xml:space="preserve">
-    <value>Fecha</value>
-  </data>
-  <data name="Client_Id" xml:space="preserve">
-    <value>Codigo</value>
-  </data>
-  <data name="Client_LastName" xml:space="preserve">
-    <value>Apellido</value>
-  </data>
-  <data name="Client_Name" xml:space="preserve">
-    <value>Nombre</value>
-  </data>
-  <data name="Client_Title" xml:space="preserve">
-    <value>Lista de Clientes</value>
-  </data>
-  <data name="Edit" xml:space="preserve">
-    <value>Editar</value>
-  </data>
-  <data name="Error_Lenght" xml:space="preserve">
-    <value>La longitud de {0} es incorrecta</value>
-  </data>
-  <data name="Error_Required" xml:space="preserve">
-    <value>El campo {0} es requerido</value>
-  </data>
-  <data name="Product_CreationDate" xml:space="preserve">
-    <value>Fecha</value>
-  </data>
-  <data name="Product_Id" xml:space="preserve">
-    <value>Código</value>
-  </data>
-  <data name="Product_Name" xml:space="preserve">
-    <value>Descripción</value>
-  </data>
-  <data name="Product_Price" xml:space="preserve">
-    <value>Precio</value>
-  </data>
-  <data name="Product_Title" xml:space="preserve">
-    <value>Indice de Productos</value>
+  <data name="DefaultSchema" xml:space="preserve">
+    <value>dbo</value>
   </data>
 </root>

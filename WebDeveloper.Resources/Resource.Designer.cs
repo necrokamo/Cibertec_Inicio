@@ -131,5 +131,68 @@ namespace WebDeveloper.Resources {
                 return ResourceManager.GetString("Edit", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a The lenght of  {0} is incorrect.
+        /// </summary>
+        public static string Error_Lenght {
+            get {
+                return ResourceManager.GetString("Error_Lenght", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a The field {0} is required.
+        /// </summary>
+        public static string Error_Required {
+            get {
+                return ResourceManager.GetString("Error_Required", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Creation Date.
+        /// </summary>
+        public static string Product_CreationDate {
+            get {
+                return ResourceManager.GetString("Product_CreationDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a ID.
+        /// </summary>
+        public static string Product_Id {
+            get {
+                return ResourceManager.GetString("Product_Id", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Description.
+        /// </summary>
+        public static string Product_Name {
+            get {
+                return ResourceManager.GetString("Product_Name", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Price.
+        /// </summary>
+        public static string Product_Price {
+            get {
+                return ResourceManager.GetString("Product_Price", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Product Index.
+        /// </summary>
+        public static string Product_Title {
+            get {
+                return ResourceManager.GetString("Product_Title", resourceCulture);
+            }
+        }
     }
 }
